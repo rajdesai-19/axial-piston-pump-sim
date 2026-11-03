@@ -24,3 +24,7 @@ Results go to `pump_sim_v2/outputs/`.
 
 See [pump_sim_v2/README.md](pump_sim_v2/README.md) for outputs, flow definitions, parameters and assumptions,
 and [pump_sim_v2/CSV_GLOSSARY.md](pump_sim_v2/CSV_GLOSSARY.md) for every CSV column.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
