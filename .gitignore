@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+pump_sim_v2/outputs/
